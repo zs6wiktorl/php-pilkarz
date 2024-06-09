@@ -1,0 +1,51 @@
+body{
+    background-color: seagreen;
+    font-family: Verdana;
+}
+
+#baner{
+    color: white;
+    text-align: center;
+    height: 330px;
+}
+
+#blokLewy{
+    background-color: whitesmoke;
+    width: 30%;
+    text-align: center;
+    height: 150px;
+    float: left;
+}
+
+#blokPrawy{
+    background-color: whitesmoke;
+    width: 70%;
+    height: 150px;
+    float: left;
+}
+
+#blokGlowny{
+    color: white;
+    clear: both;
+}
+
+h3{
+    text-align: center;
+    letter-spacing: 6px;
+    text-transform: capitalize;
+}
+
+.blokDruzyna{
+    color: white;
+    text-align: center;
+    width: 170px;
+    margin: 5px;
+    border: 1px solid white;
+    border-radius: 15px;
+    float: left;
+}
+
+.blokDruzyna:hover{
+    background-color: black;
+    color: white;
+}
